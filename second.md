@@ -12,8 +12,8 @@ print s
 > Listen to your fans
 > -Michael Gary Scott
 
-| Tables        | Are           | Cool  |
+| This          | Means         |Nothing|
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Dogs          | are           |   1   |
+| better        | then          |   2   |
+| cats          | always        |   3   |
