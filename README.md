@@ -7,4 +7,4 @@ Hello **World**
 
 [Second file](second.md)
 
-[Dog Pic](Dog.jpeg)
+[Dog Pic](Dog.jpg)
