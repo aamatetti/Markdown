@@ -9,5 +9,5 @@ Hello **World**
 
 [Dog Pic](Dog.jpg)
 
-*words
-*more words 
+-words
+-more words 
