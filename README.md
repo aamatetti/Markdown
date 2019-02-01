@@ -6,3 +6,5 @@ Project for Markdown Challenge
 Hello **World**
 
 [Second file](second.md)
+
+[Dog Pic](Dog.jpeg)
