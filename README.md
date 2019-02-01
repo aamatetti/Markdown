@@ -11,3 +11,11 @@ Hello **World**
 
 - words
 - more words 
+
+1. First
+2. Second
+3. Third 
+
+*make this look fancy*
+
+~~Cross me out ~~
