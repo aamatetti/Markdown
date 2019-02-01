@@ -18,4 +18,4 @@ Hello **World**
 
 *make this look fancy*
 
-~~Cross me out 
+~~Cross me out.~~
